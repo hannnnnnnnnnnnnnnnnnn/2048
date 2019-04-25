@@ -342,12 +342,13 @@ hr {
   .tile.tile-8 .tile-inner {
     background: url(http://store.happytifydog.com/uploads/20180221/3F/3F0E09423608w570h570.jpeg);
     background-size: cover;
-    color: rgb(0,0,0,0); }
+    color: rgb(0,0,0,0);
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
   .tile.tile-16 .tile-inner {
     background: url(https://i1.aorqu.com/201901/08_qznek3dahc331341.jpg);
     background-size: cover;
     background-position-x: center;
-    color: rgb(0,0,0,0); }
+    color: rgb(0,0,0,0);}
   .tile.tile-32 .tile-inner {
        background: url(http://www.orgs.one/images/image/81/8186497.jpg);
     background-size: cover;
