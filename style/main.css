@@ -372,7 +372,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background:url(https://i1.aorqu.com/201901/08_qznek3dahc331341.jpg);
+    background:url(http://i1.hdslb.com/bfs/archive/301d5a6618abbbe9768a94601e4f8e092639c227.jpg);
     
     background-size: cover;
     background-position-x: right;
@@ -392,7 +392,8 @@ hr {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
     color: #f9f6f2;
-    background: #edc53f;
+    background: url(https://s-ec.bstatic.com/images/hotel/max500/133/133613231.jpg);
+    background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
@@ -400,7 +401,9 @@ hr {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
     color: #f9f6f2;
-    background: #edc22e;
+    background: url(https://i1.wp.com/wx2.sinaimg.cn/large/0070yn6Bly1fsju16vkjgj30hl0buwld.jpg);
+    background-size: cover;
+    background-position-x: right;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
