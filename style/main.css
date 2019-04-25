@@ -364,10 +364,8 @@ hr {
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
   .tile.tile-128 .tile-inner {
-    background: url(http://i1.hdslb.com/bfs/archive/301d5a6….jpg);
-    font-size: 45px;
+    background: url(http://p3.pstatp.com/large/6161000556f97935baf4);
     background-size: cover;
-    background-position-x: right;
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
     @media screen and (max-width: 520px) {
