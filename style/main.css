@@ -351,26 +351,26 @@ hr {
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
   .tile.tile-32 .tile-inner {
-       background: url(http://www.orgs.one/images/image/81/8186497.jpg);
+    background: url(http://www.orgs.one/images/image/81/8186497.jpg);
     background-size: cover;
     background-position-x: center;
     color: rgb(0,0,0,0);
-box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
   .tile.tile-64 .tile-inner {
-       background: url(http://s2.nowlooker.com/uploads/201709/19/10/1505789907962.jpg);
+    background: url(http://s2.nowlooker.com/uploads/201709/19/10/1505789907962.jpg);
     font-size: 24px;
     background-size: cover;
     background-position-x: right;
     color: rgb(0,0,0,0);
-box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
   .tile.tile-128 .tile-inner {
-   background: url(http://i1.hdslb.com/bfs/archive/301d5a6….jpg);
+    background: url(http://i1.hdslb.com/bfs/archive/301d5a6….jpg);
     font-size: 45px;
     background-size: cover;
     background-position-x: right;
     color: rgb(0,0,0,0);
-box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
-@media screen and (max-width: 520px) {
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
+    @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }   
   .tile.tile-256 .tile-inner {
@@ -379,7 +379,7 @@ box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255,
     background-size: cover;
     color: rgb(0,0,0,0);
       box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
-@media screen and (max-width: 520px) {
+    @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
