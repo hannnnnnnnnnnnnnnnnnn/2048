@@ -329,7 +329,7 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-   background: url(http://13n.com/wp-content/uploads/2016/07/45420-8.jpg);
+    background: url(http://13n.com/wp-content/uploads/2016/07/45420-8.jpg);
     background-size: cover;
     background-position-x: center;
     color: rgb(0,0,0,0);
@@ -344,22 +344,33 @@ hr {
     background-size: cover;
     color: rgb(0,0,0,0); }
   .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
-    background: #f59563; }
+    background: url(https://i1.aorqu.com/201901/08_qznek3dahc331341.jpg);
+    background-size: cover;
+    background-position-x: center;
+    color: rgb(0,0,0,0); }
   .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
-    background: #f67c5f; }
+       background: url(http://www.orgs.one/images/image/81/8186497.jpg);
+    background-size: cover;
+    background-position-x: center;
+    color: rgb(0,0,0,0); }
   .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
-    background: #f65e3b; }
+       background: url(http://s2.nowlooker.com/uploads/201709/19/10/1505789907962.jpg);
+    font-size: 24px;
+    background-size: cover;
+    background-position-x: right;
+    color: rgb(0,0,0,0); }
   .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
-    background: #edcf72;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
-    font-size: 45px; }
+   background: url(http://i1.hdslb.com/bfs/archive/301d5a6….jpg);
+    font-size: 45px;
+    background-size: cover;
+    background-position-x: right;
+    color: rgb(0,0,0,0); }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
-        font-size: 25px; } }
+        background: url(http://5b0988e595225.cdn.sohucs.com/images/20180607/eea50e6….jpeg);
+    font-size: 45px;
+    background-size: cover;
+    color: rgb(0,0,0,0); }
   .tile.tile-256 .tile-inner {
     color: #f9f6f2;
     background: #edcc61;
