@@ -385,6 +385,7 @@ hr {
     color: #f9f6f2;
     background: url(https://www.yangdog.com/uploads/allimg/180815/102QIL1-0.jpg);
     background-size: cover;
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
@@ -394,6 +395,7 @@ hr {
     color: #f9f6f2;
     background: url(https://s-ec.bstatic.com/images/hotel/max500/133/133613231.jpg);
     background-size: cover;
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
@@ -404,6 +406,7 @@ hr {
     background: url(https://i1.wp.com/wx2.sinaimg.cn/large/0070yn6Bly1fsju16vkjgj30hl0buwld.jpg);
     background-size: cover;
     background-position-x: right;
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
